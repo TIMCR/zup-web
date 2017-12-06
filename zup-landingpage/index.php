@@ -159,7 +159,7 @@
     <div class="row">
       <div class="col-xs-2">
         <ul class="nav nav-pills">
-          <li><a href="#" data-toggle="modal" class="has-terms-and-conditions" data-target="#termosdeuso">Termos de Uso</a></li>
+          <li><a href="#" data-toggle="modal" class="block" data-target="#termosdeuso">Termos de Uso</a></li>
         </ul><!--/.nav -->
       </div><!--/.col-xs-3 -->
       <div class="col-xs-10">
